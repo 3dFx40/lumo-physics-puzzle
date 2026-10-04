@@ -1,0 +1,19 @@
+{
+  "name": "LUMO · לומו",
+  "short_name": "LUMO",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e9efdf",
+  "theme_color": "#e9efdf",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/lumo.png",
+      "sizes": "1280x1280",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

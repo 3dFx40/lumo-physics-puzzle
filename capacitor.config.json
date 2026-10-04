@@ -1,0 +1,6 @@
+{
+  "appId": "com.lumo.puzzle",
+  "appName": "LUMO",
+  "webDir": "dist",
+  "android": { "backgroundColor": "#e9efdf" }
+}

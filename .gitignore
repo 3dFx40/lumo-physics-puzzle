@@ -1,0 +1,14 @@
+node_modules/
+dist/
+output/
+.tools/
+android/.gradle/
+android/local.properties
+android/**/build/
+android/app/src/main/assets/public/
+android/app/src/main/assets/capacitor.config.json
+android/app/src/main/assets/capacitor.plugins.json
+level-results.json
+debug.log
+progress.md
+deliverables/
